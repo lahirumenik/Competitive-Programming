@@ -60,8 +60,8 @@ void solve(){
 signed main() {
     IOS;
  
-    int t;
-    cin>>t;
+    int t=1;
+    //cin>>t;
     while(t--){
         solve();
         //cout<<'\n';
